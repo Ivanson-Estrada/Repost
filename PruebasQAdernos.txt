@@ -1,5 +1,5 @@
 Hola QAdernos de doble raya
-Hellow inmundo animal
+Hello world
 {
 hello+bye= goodbye
 }
